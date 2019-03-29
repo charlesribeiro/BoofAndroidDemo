@@ -14,6 +14,11 @@
         <item>Thin</item>
     </string-array>
 
+    <string-array name="test_binary_filters">
+        <item>None</item>
+        <item>Thin</item>
+    </string-array>
+
     <string-array name="equi_models">
         <item>Pinhole</item>
         <item>Fisheye</item>
@@ -166,5 +171,6 @@
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="title_activity_my_test">MyTestActivity</string>
+    <string name="title_activity_other">OtherActivity</string>
 
 </resources>

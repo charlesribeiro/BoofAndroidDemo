@@ -21,9 +21,13 @@
         android:largeHeap="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity
+            android:name=".ip.OtherActivity"
+            android:label="@string/title_activity_other"
+            android:theme="@style/NoActionBar"></activity>
+        <activity
             android:name=".ip.MyTestActivity"
             android:label="@string/title_activity_my_test"
-            android:theme="@style/NoActionBar"></activity>
+            android:theme="@style/NoActionBar" />
         <activity
             android:name=".DemoMain"
             android:label="">
